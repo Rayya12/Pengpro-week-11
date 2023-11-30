@@ -17,5 +17,5 @@ func main(){
     fmt.Scanln(&uang)
     total += uang
   }
-  fmt.Println(jumlah)
+  fmt.Println(total)
 }
